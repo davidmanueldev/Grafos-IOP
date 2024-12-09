@@ -228,4 +228,4 @@ plt.title("Grafo de Ciudades")
 plt.savefig("GRAFOO.png") # Guardar imagen del grafo generado
 ```
 
-### Enlace al código fuente de este programa: [Código fuente haciendo CLICK AQUÍ](https://github.com/davidmanueldev/Grafos-IOP)
+### Enlace al código fuente de este programa: [Código fuente haciendo CLICK AQUÍ 👍](https://github.com/davidmanueldev/Grafos-IOP)
